@@ -2,7 +2,7 @@
 Smart Fashion Recommender Application
 
 Team Members 
-1. Jayeskumar M
-2. Kruthikraj R
-3. Jeevanntham 
+1. Jayeskumar M - Team Lead
+2. Kiruthickraj R
+3. Jeevanantham V
 4. Marimuthu S
