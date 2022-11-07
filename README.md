@@ -31,5 +31,5 @@ Team Members
 
 **Database:** IBM DB2
 
-##Conatct Details
+## Contact Details
 - [Jayeskumar M-LinkedIn](https://www.linkedin.com/in/jayeskumar-m-889985178/)
